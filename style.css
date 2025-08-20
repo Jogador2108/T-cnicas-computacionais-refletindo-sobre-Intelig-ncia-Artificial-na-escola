@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+#tela {
+  max-width: 600px;
+  margin: auto;
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #6200ee;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3700b3;
+}
